@@ -1,4 +1,4 @@
-public class Média_Nota_Escola {
+public class Media_Nota_Escola {
 
     public static void main(String[] args){
 
