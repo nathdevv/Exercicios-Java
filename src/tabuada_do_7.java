@@ -12,8 +12,5 @@ public class tabuada_do_7 {
 
             System.out.println(numero + "x" + multiplicador + "=" + resultado);
         }
-
     }
 }
-
-// 7
