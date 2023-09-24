@@ -1,4 +1,4 @@
-public class exercicio_nota_escolar {
+public class Média_Nota_Escola {
 
     public static void main(String[] args){
 
